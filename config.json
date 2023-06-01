@@ -1,0 +1,8 @@
+{
+    "roles":[
+        "Admin",
+        "Owner"
+    ],
+    "targetChannel":"1063289699743060009",
+    "startKeyword": "post"
+}
