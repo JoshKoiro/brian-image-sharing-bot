@@ -46,4 +46,4 @@ client.on('messageCreate', async message => {
 }
 });
 
-client.login(process.env.TOKEN); // replace with your bot token
+client.login(process.env.TOKEN);
